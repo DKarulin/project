@@ -10,7 +10,7 @@
     "fake": "json-server --watch db.json --port 3004"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.0.0",
     "dropzone": "^5.4.0",
     "flatpickr": "^4.4.4",
